@@ -28,3 +28,4 @@ IPython
 missingno
 wordcloud
 nltk
+jupyter
